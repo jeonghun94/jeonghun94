@@ -5,7 +5,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JEONG%20HUN%20github&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JHUN&fontSize=80)
 
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonghun94&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
