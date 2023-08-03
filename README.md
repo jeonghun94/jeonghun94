@@ -10,10 +10,9 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonghun94&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-<hr>
-<h3>Skills</h3>
+  <h3>Skills</h3>
 
 <strong> Techs that I've used at least once </strong>
   
@@ -72,6 +71,10 @@
 <img height='25' src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
 <br>
+</div>
+  
+<hr>
+
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 </div>
