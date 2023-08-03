@@ -10,8 +10,8 @@
 <!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonghun94&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div>
   <h3>Skills</h3>
 
 <strong> Techs that I've used at least once </strong>
