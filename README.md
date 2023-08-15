@@ -35,10 +35,12 @@ Backend : <img height='25' src="https://img.shields.io/badge/Node.js-339933?styl
           <img height='25' src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
           <img height='25' src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
           <img height='25' src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-          <img height='25' src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>    
           <img height='25' src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
-          <img height='25' src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+          <!--
+          <img height='25' src="https://img.shields.io/badge/NestJs-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>    
           <img height='25' src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+          -->
+          <img height='25' src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
           <img height='25' src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
 </div>
 
