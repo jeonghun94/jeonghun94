@@ -1,16 +1,12 @@
-<!--
-![](https://workers-visitors.wlsdnr129.workers.dev/visit?username=jinwook-song)
-<sup>[&larr; Try it](https://workers-visitors.wlsdnr129.workers.dev/)<sup>
--->
-
-<div align="center">
+<div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JHUN&fontSize=80)
 
-<!--
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonghun94&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
+# 도전과 개발을 즐기는 조정훈 입니다.
+
+다른 사람들과 함께 협력하고 소통하는 것을 소중히 여깁니다.<br/>
+개발 능력과 열정으로 좋은 결과를 만들어내기 위해 끊임없이 노력합니다.<br/>
+새로운 도전에 기꺼이 나서는 자세를 갖추고 있습니다.
 
 ### 사용 가능 기술
 
@@ -53,6 +49,6 @@ ETC :     <img height='25' src="https://img.shields.io/badge/Git-F05032?style=fl
 </div>
 <hr>
 
-  
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
+
 </div>
