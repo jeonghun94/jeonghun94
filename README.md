@@ -8,6 +8,12 @@
 개발 능력과 열정으로 좋은 결과를 만들어내기 위해 끊임없이 노력합니다.<br/>
 새로운 도전에 기꺼이 나서는 자세를 갖추고 있습니다.
 
+## <a href="https://portfolio-g297-jeonghun94.vercel.app/" target="_blank">
+
+    포트폴리오 바로가기 👉🏻
+
+</a>
+
 ### 사용 가능 기술
 
 <div align="left">
