@@ -3,7 +3,7 @@
 <sup>[&larr; Try it](https://workers-visitors.wlsdnr129.workers.dev/)<sup>
 -->
 
-<div align="center" style="width:100%;">
+<div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JHUN&fontSize=80)
 
@@ -14,7 +14,8 @@
 
 ### 사용 가능 기술
 
-<div style="display:flex; jutify-content:flex-start">
+<div align="left">
+<div >
 Frontend : <img height='25' src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
            <img height='25' src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
            <img height='25' src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white"/>
@@ -45,6 +46,7 @@ ETC :     <img height='25' src="https://img.shields.io/badge/Git-F05032?style=fl
           <img height='25' src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>
           <img height='25' src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=Netlify&logoColor=white"/>
           <img height='25' src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
+</div>
 </div>
 <hr>
 
