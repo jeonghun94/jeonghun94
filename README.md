@@ -47,12 +47,10 @@ ETC :     <img height='25' src="https://img.shields.io/badge/Git-F05032?style=fl
           <img height='25' src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
 </div>
 </div>
-
+<hr>
 <a href="https://portfolio-g297-jeonghun94.vercel.app/" target="_blank">
     포트폴리오 바로가기 👉🏻
 </a>
-
-<hr>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 
