@@ -1,10 +1,22 @@
-<div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JHUN&fontSize=80)
-  
-  ### 사용가능 기술
+<!--
+![](https://workers-visitors.wlsdnr129.workers.dev/visit?username=jinwook-song)
+<sup>[&larr; Try it](https://workers-visitors.wlsdnr129.workers.dev/)<sup>
+-->
 
-  Backend : <img height='25' src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> NodeJs & Express, TypeOrm, TypeScript & NestJs, Aws(Ec2, S3, RDS)
-  Frontend : HTML, Css, Javascript, ReactJs, NextJs, VueJs, TypeScript
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JHUN&fontSize=80)
+
+<!--
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeonghun94&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeonghun94&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+### 사용가능 기술
+
+Frontend : HTML, Css, Javascript, ReactJs, NextJs, VueJs, TypeScript
+- Backend : <img height='25' src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> NodeJs & Express, TypeOrm, TypeScript & NestJs, Aws(Ec2, S3, RDS)
+
 
   
 <img height='25' src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -69,8 +81,3 @@
   
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
 </div>
-
-
-
-
-
