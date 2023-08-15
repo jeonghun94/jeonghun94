@@ -3,7 +3,7 @@
 <sup>[&larr; Try it](https://workers-visitors.wlsdnr129.workers.dev/)<sup>
 -->
 
-<div align="center">
+<div align="center" style="width:100%;">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JHUN&fontSize=80)
 
