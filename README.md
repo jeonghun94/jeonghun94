@@ -15,6 +15,12 @@
   <h3>Tech Skills</h3>
 
 <strong> Techs that I've used at least once </strong>
+
+### 사용가능 기술
+
+- Backend : <img height='25' src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> NodeJs & Express, TypeOrm, TypeScript & NestJs, Aws(Ec2, S3, RDS)
+- Frontend : HTML, Css, Javascript, ReactJs, NextJs, VueJs, TypeScript
+
   
 <img height='25' src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img height='25' src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
