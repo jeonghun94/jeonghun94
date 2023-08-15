@@ -14,7 +14,7 @@
 
 ### 사용 가능 기술
 
-<div>
+<div style="display:flex; jutify-content:flex-start">
 Frontend : <img height='25' src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
            <img height='25' src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
            <img height='25' src="https://img.shields.io/badge/Pug-A86454?style=flat-square&logo=Pug&logoColor=white"/>
