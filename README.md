@@ -2,7 +2,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JHUN&fontSize=80)
 
-# 도전과 개발을 즐기는 조정훈 입니다.
+# 도전과 개발을 즐기는 제이훈 입니다.
 
 다른 사람들과 함께 협력하고 소통하는 것을 소중히 여깁니다.<br/>
 개발 능력과 열정으로 좋은 결과를 만들어내기 위해 끊임없이 노력합니다.<br/>
