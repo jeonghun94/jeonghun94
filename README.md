@@ -1,14 +1,18 @@
 <div align="left">
-  
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JHUN&fontSize=80)
--- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)        [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23CCAE80&title_bg=%23DFE0E0&icon_color=%2361DAFB&title=%E3%85%87_%3C&edge_flat=true)]((https://github.com/jeonghun94))            
+
+
+
+<!-- 
+
 # 도전과 개발을 즐기는 제이훈 입니다.
 
 다른 사람들과 함께 협력하고 소통하는 것을 소중히 여깁니다.<br/>
 개발 능력과 열정으로 좋은 결과를 만들어내기 위해 끊임없이 노력합니다.<br/>
 새로운 도전에 기꺼이 나서는 자세를 갖추고 있습니다.
-
-### 🛠️ Skills
+-->
+### 🛠️ Skills [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeonghun94&count_bg=%23CCAE80&title_bg=%23DFE0E0&icon_color=%2361DAFB&title=%E3%85%87_%3C&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <div align="left">
 <div >
