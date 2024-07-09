@@ -1,7 +1,7 @@
 <div align="left">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JHUN&fontSize=80)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 # 도전과 개발을 즐기는 제이훈 입니다.
 
 다른 사람들과 함께 협력하고 소통하는 것을 소중히 여깁니다.<br/>
